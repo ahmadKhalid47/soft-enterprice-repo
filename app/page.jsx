@@ -103,7 +103,7 @@ const Home = () => {
          
           <div className="w-[95%] 2xl:w-[87%] h-full mx-auto pt-20 ">
             <div className="w-full h-full flex flex-col gap-2 md:gap-5 z-100">
-              <div className="w-full h-fit linkDiv bg-neutral-50 rounded-[10px] flex flex-row justify-center items-center gap-2 md:gap-5 xl:gap-20 overflow-auto">
+              <div className="w-full h-fit linkDiv rounded-[10px] flex flex-row justify-center items-center gap-2 md:gap-5 xl:gap-20 overflow-auto">
                 <Link href={"/development"} className="w-[25%] h-[20%]">
                   <div className="w-[100%] h-[100%] relative">
                     <div className="w-[100%] h-[100%]">
